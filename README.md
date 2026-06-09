@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NaachiyappanMK
-- 👀 I’m interested in Java Development, Cyber Security, Full Stack
+- 👋 Hi, I’m Naachiyappan M K
+- 👀 I’m interested in Coding, Building Software, Identifing Security Threats, Ethical Hacking
 - 🌱 I’m currently learning DSA, System Design
-- 💞️ I’m looking to collaborate on Cyber Security , Ethical Hacking, Building Application
+- 💞️ I’m looking to collaborate on Cyber Security, Ethical Hacking, Build Scalable Application, Real world Problem solving
 - 📫 How to reach me naachiyappanmk@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
